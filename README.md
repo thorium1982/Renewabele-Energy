@@ -1,2 +1,2 @@
-# Renewabele-Energy
+# Renewable-Energy
 Tech
